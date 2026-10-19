@@ -1,5 +1,9 @@
 # Histórico de versões
 
+##Versão 5 -- planejada
+Pedido 1: Colocar uma frase motivacional e um emoji de 🙏
+
+
 ## Versão 4
 publicada em 12/10
 [x] Pedido 1: trocar o emoji por 🥳
