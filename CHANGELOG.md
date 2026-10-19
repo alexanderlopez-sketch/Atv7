@@ -1,7 +1,7 @@
 # Histórico de versões
 
-##Versão 5 -- planejada
-Pedido 1: Colocar uma frase motivacional e um emoji de 🙏
+##Versão 5 -- publicada
+[x] Pedido 1: Colocar uma frase motivacional e um emoji de 🙏
 
 
 ## Versão 4
